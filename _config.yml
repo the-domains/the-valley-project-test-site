@@ -1,0 +1,28 @@
+name: The Valley Project Test Site
+favicon: null
+layout_spectrum: 0.22076552733778954
+typography_spectrum: 0.2853934005834162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9040767685510218
+  lightness: 0.11400324362330139
+  saturation: 0.34508899226784706
+  rhythmicContrast: 0.6332116590347141
+purpose: []
